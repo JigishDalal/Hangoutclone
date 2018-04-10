@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#149F5B</color>
+    <color name="colorPrimaryDark">#167F45</color>
+    <color name="colorAccent">#0F9D58</color>
+
+    <color name="chat_name">#333</color>
+
+    <color name="chat_text_time">#999</color>
+    <color name="total_unread">#167F45</color>
+</resources>
